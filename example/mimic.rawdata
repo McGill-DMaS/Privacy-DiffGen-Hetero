@@ -1,0 +1,8 @@
+' MARRIED              ',' WHITE                                   ',' MEDICARE                  ',' CATHOLIC               ',' EMERGENCY            ',' EMERGENCY ROOM ADMIT',' M',  '<424><493><V30><790><V45> ', ' N'
+' SINGLE               ',' WHITE                                   ',' PRIVATE                   ',' PROTESTANT QUAKER      ',' EMERGENCY            ',' EMERGENCY ROOM ADMIT',' F', ' <424><427><428>',' N'
+' MARRIED              ',' WHITE                                   ',' MEDICARE                  ',' NOT SPECIFIED          ',' ELECTIVE             ',' PHYS REFERRAL/NORMAL DELI', ' F' , ' <424><410><496><244><285><272><57><518>',' N'
+'** INFO NOT AVAILABLE **',' BLACK/AFRICAN AMERICAN                  ',' MEDICAID                  ',' UNOBTAINABLE           ',' NEWBORN              ',' PHYS REFERRAL/NORMAL DELI',' F', ' <765>',' N'
+'** INFO NOT AVAILABLE **',' UNKNOWN/NOT SPECIFIED                   ',' MEDICAID                  ',' UNOBTAINABLE           ',' EMERGENCY            ',' EMERGENCY ROOM ADMIT',' M', ' <V05>',' Y'
+'** INFO NOT AVAILABLE **',' WHITE                                   ',' PRIVATE                   ',' UNOBTAINABLE           ',' NEWBORN              ',' PHYS REFERRAL/NORMAL DELI',' M', ' <V29><74*><785><V45><250>',' N'
+' SINGLE               ',' BLACK/AFRICAN AMERICAN                  ',' MEDICAID                  ',' NOT SPECIFIED          ',' EMERGENCY            ',' PHYS REFERRAL/NORMAL DELI',' M', ' <276><518>',' N'
+' MARRIED              ',' WHITE                                   ',' PRIVATE                   ',' CATHOLIC               ',' EMERGENCY            ',' TRANSFER FROM HOSP/EXTRAM',' M', ' <V10><V30><585><287><401>',' N'
