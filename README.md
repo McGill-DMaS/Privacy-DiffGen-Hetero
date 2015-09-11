@@ -1,7 +1,9 @@
 # DiffGen-Hetero
 Privacy-preserving heterogeneous health data sharing [JAMIA 2013] 
 
-Copyright 2013 Noman Mohammed, Rui Chen, and Benjamin C. M. Fung
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
+Owners: Noman Mohammed, Rui Chen, and Benjamin C. M. Fung
 
 Publication:
 
